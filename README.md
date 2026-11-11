@@ -1,30 +1,15 @@
 ## Hi there 👋
+# Привет, я Марина👋
 
-
----
-
-### Вариант 3: Profile README (Для вашего личного профиля GitHub)
-*Этот код вставляется в репозиторий, название которого совпадает с вашим ником (например, `github.com/username/username`).*
-
-```markdown
-# Привет, я Иван 👋
-
-### 👨‍💻 Fullstack-разработчик и просто хороший человек
+### 👨‍💻 Обучаюсь на веб-разработчика
 
 - 🔭 Сейчас работаю над **Крутым проектом**
-- 🌱 Изучаю **Rust и Kubernetes**
-- 💬 Спроси меня о **Python, JavaScript или Docker**
-- 📫 Как со мной связаться: **email@example.com**
+- 🌱 Изучаю **HTML и JavaScript**
+- 📫 Как со мной связаться: **ismith00136@gmail.com**
 
 ---
 
 ### 🛠 Мой стек технологий
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
